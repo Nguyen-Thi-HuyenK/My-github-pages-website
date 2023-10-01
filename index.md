@@ -42,3 +42,8 @@ Some quotes that I like :+1: are:
 > More lovely quotes can be found via this link: [BrainyQuote - Gardening Quotes](https://www.brainyquote.com/topics/gardening-quotes)
 
 Below are some pictures of my gardening from this summer.
+Roses and Lilies in early July
+![Roses and Lilies](https://private-user-images.githubusercontent.com/112580461/271850451-aa702db2-c278-49a0-abe8-7d017f3f8f76.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTYxOTAzNjIsIm5iZiI6MTY5NjE5MDA2MiwicGF0aCI6Ii8xMTI1ODA0NjEvMjcxODUwNDUxLWFhNzAyZGIyLWMyNzgtNDlhMC1hYmU4LTdkMDE3ZjNmOGY3Ni5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAwMVQxOTU0MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mODZhYjI3YTc0YmI3NDAzMzUzMjA4MjZiNzRjOTZkOTg5NTA2YTBkNzhjMjI1NzdjM2FhMmE4MzczNjkxNTlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.AJ_ePRyFX6XVGlJoVWub69M4EFvm4mNq5CqGN9oAbAU)
+
+Marigolds blossom throughout the summer and autumn.
+![Roses and Lilies]()
