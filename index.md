@@ -40,7 +40,7 @@ Some quotes that I like :+1: are:
 > - Doug Larson
 
 > [!NOTE]
-> More lovely quotes can be found via this link: [BrainyQuote - Gardening Quotes](https://www.brainyquote.com/topics/gardening-quotes)
+> More lovely quotes can be found via this link: :point_right: [BrainyQuote - Gardening Quotes](https://www.brainyquote.com/topics/gardening-quotes)
 
 **Below are some pictures of my gardening from this summer :bouquet:**.
 
