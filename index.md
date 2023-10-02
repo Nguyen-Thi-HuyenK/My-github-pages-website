@@ -42,14 +42,15 @@ Some quotes that I like :+1: are:
 > [!NOTE]
 > More lovely quotes can be found via this link: [BrainyQuote - Gardening Quotes](https://www.brainyquote.com/topics/gardening-quotes)
 
-Below are some pictures of my gardening from this summer.
-Roses and Lilies in early July
+**Below are some pictures of my gardening from this summer :bouquet:**.
+
+**Roses** :rose: and **Lilies** :tulip: in early July
 ![Roses and Lilies](https://user-images.githubusercontent.com/112580461/271888298-71c4f86a-66e5-4eec-a3ea-ffade7b4e1ee.jpg)
 
-Marigolds blossom throughout the summer and autumn.
+**Marigolds** :blossom: blossom throughout the summer and autumn.
 ![Roses and Lilies](https://user-images.githubusercontent.com/112580461/271888324-96b84e4c-8566-4686-a100-86bcc75d2c8d.jpg)
 
-Another type of lilies.
+Another type of **lilies** :tulip:.
 ![Lilies](https://user-images.githubusercontent.com/112580461/271888378-5d4aa21d-8f10-4542-a2d7-c73fb34c01a1.jpg)
 
 > [!IMPORTANT]
