@@ -54,4 +54,4 @@ Another type of **lilies** :tulip:.
 ![Lilies](https://user-images.githubusercontent.com/112580461/271888378-5d4aa21d-8f10-4542-a2d7-c73fb34c01a1.jpg)
 
 > [!IMPORTANT]
-> This is a basic static website in which I used a handful of **GitHub-flavored Markdown** features, such as different levels of headings, styling text (bold, italic, all bold and italic, alert, list, quoting text, link, images, emoji among others.
+> This is a basic static website in which I used a handful of **GitHub-flavored Markdown** features, such as different levels of headings, styling text (bold, italic, all bold and italic), alert, list, quoting text, link, images, emoji among others.
