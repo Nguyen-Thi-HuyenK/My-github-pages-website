@@ -24,7 +24,7 @@ The dynamic nature of the IT field keeps me engaged and motivated. While there h
 
 _I love spending my free time on gardening work, tending to my plants, and enjoying other activities like watching comedies and practicing yoga_ .
 
-Gardening work has become a source of profound satisfaction for me. The act of nurturing plants and witnessing their growth brings a sense of fulfillment and a deeper connection to nature :gardening: . Whether it's tending to vibrant flower beds, cultivating a thriving vegetable garden, or simply enjoying the serenity of outdoor gardening, I find solace and joy in every moment spent amidst the beauty of nature.
+Gardening work has become a source of profound satisfaction for me. The act of nurturing plants and witnessing their growth brings a sense of fulfillment and a deeper connection to nature :gardening:. Whether it's tending to vibrant flower beds, cultivating a thriving vegetable garden, or simply enjoying the serenity of outdoor gardening, I find solace and joy in every moment spent amidst the beauty of nature.
 
 Watching comedies allows me to unwind and enjoy a good laugh, providing a great way to relax and temporarily escape from the demands of daily life :smile: . I have a list of favorite comedians and classic comedy shows that I never tire of.
 
