@@ -15,19 +15,20 @@ The dynamic nature of the IT field keeps me engaged and motivated. While there h
 |   1  | JavaScript |
 |   2  | Java       |
 |   3  | Python     |
+<!-- TO DO: Skills will be updated later -->
 
 ### My hobbies
 - Gardening
 * Practicing yoga
 + Watching comedy movies/shows
 
-I love spending my free time on gardening work, tending to my plants, and enjoying other activities like watching comedies and practicing yoga.
+_ _I love spending my free time on gardening work, tending to my plants, and enjoying other activities like watching comedies and practicing yoga_ _.
 
-Gardening work has become a source of profound satisfaction for me. The act of nurturing plants and witnessing their growth brings a sense of fulfillment and a deeper connection to nature. Whether it's tending to vibrant flower beds, cultivating a thriving vegetable garden, or simply enjoying the serenity of outdoor gardening, I find solace and joy in every moment spent amidst the beauty of nature.
+Gardening work has become a source of profound satisfaction for me. The act of nurturing plants and witnessing their growth brings a sense of fulfillment and a deeper connection to nature :gardening: . Whether it's tending to vibrant flower beds, cultivating a thriving vegetable garden, or simply enjoying the serenity of outdoor gardening, I find solace and joy in every moment spent amidst the beauty of nature.
 
-Watching comedies allows me to unwind and enjoy a good laugh, providing a great way to relax and temporarily escape from the demands of daily life. I have a list of favorite comedians and classic comedy shows that I never tire of.
+Watching comedies allows me to unwind and enjoy a good laugh, providing a great way to relax and temporarily escape from the demands of daily life :smile: . I have a list of favorite comedians and classic comedy shows that I never tire of.
 
-Yoga, on the other hand, is my go-to activity for maintaining physical and mental well-being. It helps me stay centered and reduces stress through a combination of stretching, deep breathing, and mindfulness during yoga sessions, leaving me feeling refreshed and energized.
+Yoga, on the other hand, is my go-to activity for maintaining physical and mental well-being :man_in_lotus_position: . It helps me stay centered and reduces stress through a combination of stretching, deep breathing, and mindfulness during yoga sessions, leaving me feeling refreshed and energized.
 
 Balancing my IT career with these hobbies brings a sense of harmony to my life, and I find that they complement each other well, providing me with the perfect blend of relaxation and rejuvenation :heart:
 
@@ -43,7 +44,13 @@ Some quotes that I like :+1: are:
 
 Below are some pictures of my gardening from this summer.
 Roses and Lilies in early July
-![Roses and Lilies](https://private-user-images.githubusercontent.com/112580461/271850451-aa702db2-c278-49a0-abe8-7d017f3f8f76.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTYxOTAzNjIsIm5iZiI6MTY5NjE5MDA2MiwicGF0aCI6Ii8xMTI1ODA0NjEvMjcxODUwNDUxLWFhNzAyZGIyLWMyNzgtNDlhMC1hYmU4LTdkMDE3ZjNmOGY3Ni5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAwMVQxOTU0MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mODZhYjI3YTc0YmI3NDAzMzUzMjA4MjZiNzRjOTZkOTg5NTA2YTBkNzhjMjI1NzdjM2FhMmE4MzczNjkxNTlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.AJ_ePRyFX6XVGlJoVWub69M4EFvm4mNq5CqGN9oAbAU)
+![Roses and Lilies](https://user-images.githubusercontent.com/112580461/271888298-71c4f86a-66e5-4eec-a3ea-ffade7b4e1ee.jpg)
 
 Marigolds blossom throughout the summer and autumn.
-![Roses and Lilies]()
+![Roses and Lilies](https://user-images.githubusercontent.com/112580461/271888324-96b84e4c-8566-4686-a100-86bcc75d2c8d.jpg)
+
+Another type of lilies.
+![Lilies](https://user-images.githubusercontent.com/112580461/271888378-5d4aa21d-8f10-4542-a2d7-c73fb34c01a1.jpg)
+
+> [!IMPORTANT]
+> This is a basic static website in which I used a handful of GitHub-flavored Markdown features, such as different levels of headings, styling text (bold, italic, all bold and italic, alert, list, quoting text, link, images, emoji among others.
