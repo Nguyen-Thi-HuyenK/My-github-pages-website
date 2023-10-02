@@ -28,7 +28,7 @@ Gardening work has become a source of profound satisfaction for me. The act of n
 
 Watching comedies allows me to unwind and enjoy a good laugh, providing a great way to relax and temporarily escape from the demands of daily life :smile: . I have a list of favorite comedians and classic comedy shows that I never tire of.
 
-Yoga, on the other hand, is my go-to activity for maintaining physical and mental well-being :man_in_lotus_position: . It helps me stay centered and reduces stress through a combination of stretching, deep breathing, and mindfulness during yoga sessions, leaving me feeling refreshed and energized.
+Yoga, on the other hand, is my go-to activity for maintaining physical and mental well-being :yoga:. It helps me stay centered and reduces stress through a combination of stretching, deep breathing, and mindfulness during yoga sessions, leaving me feeling refreshed and energized.
 
 Balancing my IT career with these hobbies brings a sense of harmony to my life, and I find that they complement each other well, providing me with the perfect blend of relaxation and rejuvenation :heart:
 
