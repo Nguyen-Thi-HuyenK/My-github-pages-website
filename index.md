@@ -3,7 +3,7 @@
 My name is **Huyen**, and in this simple static website, I will write a bit about myself as well as one of my hobbies, which is gardening, using the ***Markdown language syntax*** on GitHub Pages.
 
 ### About me
-I have changed my career from the healthcare field to IT. It has been interesting but also challenging at the same time for me. I've had the opportunity to learn new programming languages, work on exciting projects, and collaborate with talented professionals in the tech industry. The transition has opened up a world of possibilities, and I'm excited to continue growing my skills and contributing to the ever-evolving field of information technology.
+I have changed my career from the *healthcare field to IT*. It has been **interesting** but also **challenging** at the same time for me. I've had the opportunity to learn new programming languages, work on exciting projects, and collaborate with talented professionals in the tech industry. The transition has opened up a world of possibilities, and I'm excited to continue growing my skills and contributing to the ever-evolving field of information technology.
 
 The dynamic nature of the IT field keeps me engaged and motivated. While there have been moments of uncertainty, each challenge I've encountered has been an opportunity for growth. I look forward to embracing future challenges, expanding my knowledge, and making meaningful contributions to the digital world.
 
